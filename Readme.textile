@@ -1,0 +1,5 @@
+h1. Readme
+
+Dette er en mer morsom fil å bruke for å redigere tekst i en tekstfil.
+Wiki-syntaks *funker* :)
+
