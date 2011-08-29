@@ -6,3 +6,5 @@ Wiki-syntaks *funker* :)
 h2. Kjempegøy!
 
 :)
+
+git out of here!
